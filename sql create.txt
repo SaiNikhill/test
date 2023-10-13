@@ -1,0 +1,6 @@
+create table
+(
+  student_id INT,
+  student-name VARCHAR,
+  age INT,
+);
